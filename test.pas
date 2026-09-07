@@ -1,15 +1,9 @@
-{
-Nama : Wildan Abiyu Mazda
-NIM : 261401063
-Kelas : KOM-C
-}
-
-program Soal6;
+program Testing;
 var
-    angka : integer;
+    kulit : integer;
 begin
-    write('Masukkan angka: ');
-    readln(angka);
+    write('Tuliskan warna kult anda: ');
+    readln(kulit);
 
-writeln ('Angka yang Anda masukkan: ', angka);
+writeln ('Warna Kulit Anda: ', kulit);
 end.
