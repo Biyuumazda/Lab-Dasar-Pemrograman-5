@@ -1,6 +1,6 @@
 program Testing;
 var
-    kulit : integer;
+    kulit : string;
 begin
     write('Tuliskan warna kulit anda: ');
     readln(kulit);
